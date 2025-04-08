@@ -1,4 +1,4 @@
-module github.com/rfyiamcool/gomtr
+module github.com/mstalent/gomtr
 
 go 1.18
 
