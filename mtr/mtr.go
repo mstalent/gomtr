@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rfyiamcool/gomtr/common"
-	"github.com/rfyiamcool/gomtr/icmp"
-	"github.com/rfyiamcool/gomtr/spew"
+	"github.com/mstalent/gomtr/common"
+	"github.com/mstalent/gomtr/icmp"
+	"github.com/mstalent/gomtr/spew"
 )
 
 func Mtr(ipAddr string, maxHops, sntSize, timeoutMs int) (result string, err error) {
