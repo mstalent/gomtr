@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rfyiamcool/gomtr/spew"
+	"github.com/mstalent/gomtr/spew"
 )
 
 // LookupAddrs nslookup domain name, return ips
